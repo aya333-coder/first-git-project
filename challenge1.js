@@ -9,5 +9,5 @@ console.log('voici vos information:');
 Nom=("nom");
 Prenom=("prenom");
 âge=("âge");
-sex=("sex");
+sexe=("sexe");
 email=("email");
