@@ -4,5 +4,5 @@ const point={
 }
 point.x=8;
 point.y=50;
-console.log(x);
-console.log(y);
+console.log(point.x);
+console.log(point.y);
