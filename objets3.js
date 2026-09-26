@@ -5,5 +5,5 @@ const rectangle ={
 };
 function calculonaire(rectangle){
     return rectangle.longeur * rectangle.largeur;
-}
+} 
 console.log(calculonaire(rectangle));
